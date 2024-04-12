@@ -1,7 +1,7 @@
 Nudge LX200 Guider Driver
 -------------------------
 
-For 32-bit applications, programs and apps.
+For 32-bit applications, programs and apps.  Works with PHD2.
 
 This driver allows an application to send timed pulses to the Meade LX200 SCT telescope to nudge its mount in north, east, south and west direction to aid guiding and hence enhance imaging by removing star trailing.
 
